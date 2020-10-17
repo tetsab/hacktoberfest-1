@@ -2431,4 +2431,4 @@ Noida
 #### Name: [tetsab] (https://github.com/tetsab)
 - Place: Brazil
 - Bio: Dev Frontend
-- GitHub: [tetsab] (https://github.com/tetsab)
+- GitHub: [tetsab] (https://github.com/tetsab) 
